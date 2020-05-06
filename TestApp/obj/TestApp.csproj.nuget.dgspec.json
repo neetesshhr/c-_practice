@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/rijalboy/Documents/c-_practice/MyApp/MyApp.csproj": {}
+    "/home/rijalboy/Documents/c-_practice/TestApp/TestApp.csproj": {}
   },
   "projects": {
-    "/home/rijalboy/Documents/c-_practice/MyApp/MyApp.csproj": {
+    "/home/rijalboy/Documents/c-_practice/TestApp/TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/rijalboy/Documents/c-_practice/MyApp/MyApp.csproj",
-        "projectName": "MyApp",
-        "projectPath": "/home/rijalboy/Documents/c-_practice/MyApp/MyApp.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/rijalboy/Documents/c-_practice/MyApp/obj/",
+        "projectUniqueName": "/home/rijalboy/Documents/c-_practice/TestApp/TestApp.csproj",
+        "projectName": "TestApp",
+        "projectPath": "/home/rijalboy/Documents/c-_practice/TestApp/TestApp.csproj",
+        "packagesPath": "/home/rijalboy/.nuget/packages/",
+        "outputPath": "/home/rijalboy/Documents/c-_practice/TestApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "/home/rijalboy/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

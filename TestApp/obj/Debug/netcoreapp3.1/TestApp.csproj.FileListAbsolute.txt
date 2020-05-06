@@ -1,0 +1,11 @@
+/home/rijalboy/Documents/c-_practice/TestApp/bin/Debug/netcoreapp3.1/TestApp
+/home/rijalboy/Documents/c-_practice/TestApp/bin/Debug/netcoreapp3.1/TestApp.deps.json
+/home/rijalboy/Documents/c-_practice/TestApp/bin/Debug/netcoreapp3.1/TestApp.runtimeconfig.json
+/home/rijalboy/Documents/c-_practice/TestApp/bin/Debug/netcoreapp3.1/TestApp.runtimeconfig.dev.json
+/home/rijalboy/Documents/c-_practice/TestApp/bin/Debug/netcoreapp3.1/TestApp.dll
+/home/rijalboy/Documents/c-_practice/TestApp/bin/Debug/netcoreapp3.1/TestApp.pdb
+/home/rijalboy/Documents/c-_practice/TestApp/obj/Debug/netcoreapp3.1/TestApp.csprojAssemblyReference.cache
+/home/rijalboy/Documents/c-_practice/TestApp/obj/Debug/netcoreapp3.1/TestApp.AssemblyInfoInputs.cache
+/home/rijalboy/Documents/c-_practice/TestApp/obj/Debug/netcoreapp3.1/TestApp.AssemblyInfo.cs
+/home/rijalboy/Documents/c-_practice/TestApp/obj/Debug/netcoreapp3.1/TestApp.dll
+/home/rijalboy/Documents/c-_practice/TestApp/obj/Debug/netcoreapp3.1/TestApp.pdb
